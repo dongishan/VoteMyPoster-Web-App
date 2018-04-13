@@ -1,0 +1,9 @@
+How to vote:
+
+1. Download your favourite QR code scanner (latest phones has a QR code scanner embedded in the native camera app)
+
+2. Point the camera towards the QR code in the poster
+
+3. Open the URL detected by the scanner
+
+4. Once the web page opened scroll down and press on the "Vote for my poster" button

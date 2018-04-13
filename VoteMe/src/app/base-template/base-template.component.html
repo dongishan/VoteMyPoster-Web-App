@@ -1,0 +1,23 @@
+<div >
+  <div class=" w3-blue-grey w3-container">
+    <div class="w3-padding-64 w3-center">
+      <h2>{{title}}</h2>
+      <h3>{{name}}</h3>
+
+      <img src="{{imgUrl}}" class="w3-margin w3-circle" alt="Student">
+      <div class="w3-left-align">
+        <p align="justify">
+          {{abstract1}}
+        </p>
+      </div>
+    </div>
+    <button class="button primary" style="margin-bottom: 5%" (click)="onVote()" [disabled]="submittedVote">{{buttonText}}</button>
+
+  </div>
+
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-black w3-padding-16 w3-center">
+  <p>1<sup>st</sup> Year PhD Conference 2018 | 22<sup>nd</sup> May 2018 | Institute for Manufacturing</p>
+</footer>
