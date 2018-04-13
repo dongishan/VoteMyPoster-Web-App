@@ -38,7 +38,7 @@ Every string in .html templates should be available for translation. This includ
 For detailed instructions on how to mark text for translation, please refer to [Angular's official documentation on i18n](https://angular.io/docs/ts/latest/cookbook/i18n.html#!#i18n-attribute)
  
 ## Routing
-All the routes are defined in the `src/app/app-routing.module.ts`. As an example `/login` route is already defined.
+All the routes are defined in the `src/app/app-routing.module.ts`.
 
 ##Firebase
 For the Firebase connection, [AngularFire2](https://github.com/angular/angularfire2) library is used.
